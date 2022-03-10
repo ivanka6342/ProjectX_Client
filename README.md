@@ -7,3 +7,5 @@ Must be fetched via git & run with specific version (release tag) by launcher
 Include versions:
 * for windows
 * for mac
+
+> both platforms use .exe app (mac uses smth like W.I.N.E.)
